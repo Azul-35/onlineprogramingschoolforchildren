@@ -1,0 +1,129 @@
+*{
+	margin: 10px;
+}
+
+
+body { 
+background-image: url(Imagenes/Fotos\ Para\ Tus\ Portadas\ ❤.jpeg);
+background-size: cover;
+ color:black;
+ background-position: center;
+ margin: 0px;
+ font-family: 'Pangolin', cursive;
+ font-size: 30px;
+}
+
+
+
+
+
+h1{
+	font-family:'Pangolin', cursive ;
+	font-size: 40px;
+	color:black;
+	justify-content:center;
+}
+
+
+ul{
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+	display: flex;
+	height: inherit;
+}
+
+
+
+
+.header {
+	background: linear-gradient(rgb(241, 241, 140) , rgb(134, 231, 238) , rgb(131, 238, 131) , rgb(245, 188, 198) , rgb(221, 141, 241) );
+	min-height: 10vh;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+    height: 100px;
+    font-size: 20px;
+}
+
+
+    
+
+
+.header li {
+	height: inherit;
+	display: flex;
+	align-items: center;
+}
+.header a {
+	color: black;
+	text-decoration:none;
+    padding: 0px 10px;
+	font-size: 30px;
+	display: flex;
+	align-items: center;	
+}
+.logo img {
+	width: 100px;
+}
+.menu {
+	height: inherit;
+
+}
+
+
+
+.principal {
+	
+	background-size: cover;
+	background-repeat: no-repeat;
+	text-align: center;
+    padding: 50px;
+    font-size: 20px;
+	color: black;
+  
+	
+}
+.principal img {
+	width: 300px;
+}
+
+
+
+.problematica  {	
+	color:black;
+	text-align: center;
+	padding: 50px;
+    font-size: 20px;
+    justify-content:space-between;
+    
+}
+
+.NuestrasClases {
+   
+    text-align: center;
+    padding: 50;
+    font-size: 20px;
+}
+
+.Precios {
+    color:black;
+    text-align: center;
+    padding: 50px;
+    font-size: 20px;
+    justify-content: space-between;
+}
+.Contacto img {
+	margin: 20px;
+	width: 500px;
+	padding: 20px;
+    justify-content:center;
+}
+
+
+
+
+   
+
+ 
+
